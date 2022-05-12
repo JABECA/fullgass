@@ -1,0 +1,293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"hidden\tAttr"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"prin",
+				"printf"
+			],
+			[
+				"id",
+				"idventa"
+			],
+			[
+				"controladore",
+				"controladores"
+			],
+			[
+				"controla",
+				"ControladorEntrtegas"
+			],
+			[
+				"po",
+				"_POST"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Alejandro/Desktop/Archivos y Txt/cuentas de correo",
+		"/C/Users/Alejandro/Desktop/Archivos y Txt/Acceso a plataformas.txt",
+		"/C/Users/Alejandro/Desktop/Archivos y Txt2/Apuentes Varios.txt",
+		"/C/xampp/htdocs/fullgas/modelos/pilotos.modelo.php",
+		"/C/xampp/htdocs/fullgas/modelos/usuarios.modelo.php",
+		"/C/xampp/htdocs/fullgas/vistas/modulos/usuarios.php",
+		"/C/xampp/htdocs/fullgas/controladores/usuarios.controlador.php",
+		"/C/xampp/htdocs/fullgas/controladores/pagos.controlador.php",
+		"/C/xampp/htdocs/fullgas/vistas/modulos/pagos.php",
+		"/C/xampp/htdocs/fullgas/modelos/pagos.modelo.php",
+		"/C/xampp/htdocs/fullgas/vistas/js/pagos.js",
+		"/C/xampp/htdocs/fullgas/index.php",
+		"/C/xampp/htdocs/fullgas/ajax/pagos.ajax.php",
+		"/C/xampp/htdocs/fullgas/vistas/plantilla.php",
+		"/C/xampp/htdocs/fullgas/modelos/vehiculos.modelo.php",
+		"/C/xampp/htdocs/fullgas/controladores/vehiculos.controlador.php",
+		"/C/xampp/htdocs/fullgas/ajax/vehiculos.ajax.php",
+		"/C/xampp/htdocs/fullgas/vistas/modulos/vehiculos.php",
+		"/C/xampp/htdocs/fullgas/vistas/js/vehiculos.js",
+		"/C/xampp/htdocs/fullgas/vistas/js/plantilla.js",
+		"/C/xampp/htdocs/fullgas/controladores/s",
+		"/C/xampp/htdocs/fullgas/vistas/modulos/pilotos.php",
+		"/C/xampp/htdocs/fullgas/controladores/pilotos.controlador.php",
+		"/C/xampp/htdocs/fullgas/vistas/js/pilotos.js",
+		"/C/xampp/htdocs/fullgas/ajax/pilotos.ajax.php",
+		"/C/xampp/htdocs/fullgas/vistas/js/usuarios.js",
+		"/C/xampp/htdocs/fullgas/vistas/modulos/menu.php",
+		"/C/xampp/htdocs/adventas/vistas/venta.php",
+		"/C/xampp/htdocs/adventas/modelos/Venta.php",
+		"/C/xampp/htdocs/fullgas/modelos/conexion.php",
+		"/C/xampp/htdocs/fullgas/bd.sql",
+		"/C/xampp/htdocs/adventas/reportes/exTicket.php",
+		"/C/xampp/htdocs/crudAJAX/bd/crud.php",
+		"/C/xampp/htdocs/crudAJAX/main.js",
+		"/C/xampp/htdocs/crudAJAX/bd/conexion.php",
+		"/C/xampp/htdocs/crudAJAX/index.php",
+		"/C/xampp/htdocs/adventas/config/global.php",
+		"/C/xampp/htdocs/adventas/config/Conexion.php",
+		"/C/xampp/htdocs/pos/modelos/conexion.php",
+		"/C/xampp/htdocs/adventas/vistas/acerca.php",
+		"/C/xampp/htdocs/adventas/vistas/ayuda.php",
+		"/C/xampp/htdocs/adventas/vistas/header.php",
+		"/C/xampp/htdocs/adventas/vistas/footer.php",
+		"/C/Users/Alejandro/AppData/Local/Temp/Rar$DIa1368.17397/conexion.php",
+		"/C/xampp/htdocs/pos/controladores/ventas.controlador.php",
+		"/C/xampp/htdocs/pos/extensiones/tcpdf/tcpdf.php",
+		"/C/xampp/htdocs/parkmotos/wp-admin/setup-config.php",
+		"/C/xampp/htdocs/parkmotos/wp-admin/install.php",
+		"/C/xampp/htdocs/SmokeShop/wp-admin/setup-config.php",
+		"/C/xampp/htdocs/tienda_makeupstore/wp-includes/pomo/plural-forms.php",
+		"/C/xampp/htdocs/tienda_makeupstore/wp-content/plugins/woocommerce/includes/wc-formatting-functions.php",
+		"/C/xampp/htdocs/pos/vistas/modulos/inicio/cajas-superiores.php",
+		"/C/xampp/htdocs/pos/vistas/plantilla.php",
+		"/C/xampp/htdocs/pos/controladores/plantilla.controlador.php",
+		"/C/xampp/htdocs/parkmotos/wp-content/themes/Divi/includes/builder/functions.php",
+		"/C/xampp/htdocs/tienda_makeupstore/wp-admin/install.php",
+		"/C/xampp/htdocs/inventorySistem/modelos/conexion.php",
+		"/C/xampp/htdocs/pedidos/vistas/header.php",
+		"/C/xampp/htdocs/InventarioPartes/xml/10001.xml",
+		"/C/xampp/htdocs/pedidos/ajax/usuario.php",
+		"/C/xampp/htdocs/pedidos/ajax/permiso.php",
+		"/C/xampp/htdocs/pedidos/ajax/venta.php",
+		"/C/xampp/htdocs/pedidos/vistas/entregas.php",
+		"/C/xampp/htdocs/pedidos/vistas/scripts/entregas.js",
+		"/C/xampp/htdocs/pedidos/controladores/entrega.controlador.php",
+		"/C/Users/Alejandro/Desktop/actualizar en pedidos/modelo/entrega.php",
+		"/C/xampp/htdocs/pedidos/vistas/footer.php",
+		"/C/xampp/htdocs/pedidos/modelos/entrega.php",
+		"/C/xampp/htdocs/pedidos/modelos/Venta.php",
+		"/C/xampp/htdocs/pedidos/vistas/scripts/mensaje.js",
+		"/C/xampp/htdocs/pedidos/vistas/scripts/ventas.js",
+		"/C/xampp/htdocs/pedidos/ajax/entrega.php",
+		"/C/xampp/htdocs/pedidos/config/Conexion.php",
+		"/C/xampp/htdocs/pedidos/config/global.php",
+		"/C/xampp/htdocs/InventarioPartes/vistas/modulos/login.php",
+		"/C/xampp/htdocs/InventarioPartes/vistas/plantilla.php",
+		"/C/Users/Alejandro/Desktop/FCE1.xml",
+		"/C/xampp/htdocs/pedidos/vistas/scripts/sale.js",
+		"/C/xampp/htdocs/pedidos/ajax/ingreso.php",
+		"/C/xampp/htdocs/pedidos/vistas/venta.php",
+		"/C/Users/Alejandro/Desktop/xml 442.xml",
+		"/C/xampp/htdocs/parkmotos/wp-config.php",
+		"/C/xampp/htdocs/parkmotos/wp-configold.php",
+		"/C/xampp/htdocs/nicemobile/vistas/modulos/ventas.php",
+		"/C/xampp/htdocs/nicemobile/extensiones/tcpdf/pdf/factura-carta.php",
+		"/C/xampp/htdocs/nicemobile/extensiones/tcpdf/pdf/factura.php",
+		"/C/xampp/htdocs/nicemobile/vistas/modulos/crear-venta.php",
+		"/C/xampp/htdocs/nicemobile/vistas/js/ventas.js",
+		"/C/Users/Alejandro/Desktop/NIcemobile.txt",
+		"/C/xampp/htdocs/nicemobile/vistas/dist/css/AdminLTE.css",
+		"/C/xampp/htdocs/nicemobile/vistas/modulos/login.php",
+		"/C/xampp/htdocs/nicemobile/vistas/modulos/footer.php",
+		"/C/xampp/htdocs/nicemobile/modelos/conexion.php",
+		"/C/xampp/htdocs/nicemobile/vistas/modulos/cabezote.php",
+		"/C/xampp/htdocs/InventarioPartes/controladores/ventas.controlador.php",
+		"/C/xampp/htdocs/InventarioPartes/extensiones/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php",
+		"/C/xampp/htdocs/InventarioPartes/index.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "menu.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 297.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

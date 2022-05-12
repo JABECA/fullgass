@@ -1,0 +1,81 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Highcharts Example</title>
+
+		<style type="text/css">
+
+		</style>
+	</head>
+	<body>
+<script src="../../code/highcharts.js"></script>
+<script src="../../code/modules/series-label.js"></script>
+<script src="../../code/modules/exporting.js"></script>
+
+<div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
+
+
+		<script type="text/javascript">
+
+Highcharts.chart('container', {
+    title: {
+        text: 'Jhon Alejandro Betancourth Cardona'
+    },
+    xAxis: {
+        categories: ['Liderazgo', 'Servicio', 'Trabajo en Equipo', 'Potencia Personal', 'Desempeño', 'Flexibilidad']
+    },
+    labels: {
+        items: [{
+            html: 'Evaluacion general de las competencias evaluadas',
+            style: {
+                left: '10px',
+                top: '0px',
+                color: (Highcharts.theme && Highcharts.theme.textColor) || 'black'
+            }
+        }]
+    },
+    series: [{
+        type: 'column',
+        name: 'Resultado',
+        data: [4.1, 4.2, 3.1, 3.8, 4.5, 5]
+    }, {
+        type: 'column',
+        name: 'Meta',
+        data: [3, 3, 3, 3, 3, 3]
+    }, {
+        type: 'spline',
+        name: 'Promedio general',
+        data: [3.7, 3.7, 3.7, 3.7, 3.7, 3.7],
+        marker: {
+            lineWidth: 2,
+            lineColor: Highcharts.getOptions().colors[3],
+            fillColor: 'white'
+        }
+    }, {
+        type: 'pie',
+        name: 'Total consumption',
+        data: [{
+            name: 'Resultado',
+            y: 70,
+            color: Highcharts.getOptions().colors[0] // Jane's color
+        }, {
+            name: 'Meta',
+            y: 30,
+            color: Highcharts.getOptions().colors[1] // John's color
+        }],
+        center: [150, 60],
+        size: 100,
+        showInLegend: false,
+        dataLabels: {
+            enabled: false
+        }
+    }]
+});
+
+
+		</script>
+	</body>
+</html>
